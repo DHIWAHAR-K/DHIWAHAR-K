@@ -25,8 +25,8 @@
 ---
 
 # 📊 **Stats**:
-<img src="https://github-readme-stats.vercel.app/api?username=DHIWAHAR-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="1000"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHIWAHAR-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="1000">
+<img src="https://github-readme-stats.vercel.app/api?username=DHIWAHAR-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="800"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHIWAHAR-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="800">
 
 ---
 
