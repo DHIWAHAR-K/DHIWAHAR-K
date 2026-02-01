@@ -75,13 +75,6 @@
 
 ---
 
-# 📊 **Stats**:<table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=DHIWAHAR-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="1000"><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHIWAHAR-K&theme=dark&hide_border=false" width="1000"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHIWAHAR-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="1000">
-
----
 
   ## 💰 **You can help me by Donating**
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adhithyak99) 
