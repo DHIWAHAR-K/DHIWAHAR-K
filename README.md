@@ -1,4 +1,4 @@
-# **Dhiwahar K Adhithya**
+# **Dhiwahar Adhithya Kennady**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DHIWAHAR-K&label=Profile%20views&color=0e75b6&style=flat" alt="DHIWAHAR-K" /> </p>
 
