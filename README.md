@@ -1,5 +1,5 @@
 <a href="https://github.com/DHIWAHAR-K">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dhiwahar+Adhithya+Kennady+%F0%9F%91%8B;MS+Data+Science+%40+NYU+%7C+AI%2FML+Engineer;Building+Full-Stack+AI+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dhiwahar+Adhithya+Kennady+%F0%9F%91%8B;MS+Data+Science+%40+NYU+%7C+AI%2FML+Engineer;Building+Full-Stack+AI+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
 </a>
 
 <p align="center">
