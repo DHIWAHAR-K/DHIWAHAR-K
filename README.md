@@ -1,81 +1,51 @@
-# **Dhiwahar Adhithya Kennady**
+# Dhiwahar Adhithya Kennady
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DHIWAHAR-K&label=Profile%20views&color=0e75b6&style=flat" alt="DHIWAHAR-K" /> </p>
+**MS Data Science @ NYU** · AI/ML Engineer · Building intelligent systems that solve real problems
 
-## 🌐 **Socials**:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tXz8KrRpWQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhiwahar__k/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiwahar-adhithya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/k_dhiwahar) 
+I build full-stack AI applications — from research prototypes to production systems. My work spans **medical imaging AI**, **multi-agent LLM systems**, **speech/NLP**, and **computer vision**.
 
----
-
-## **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-## **Database**
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-## **User Interface**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![ChainlIT](https://img.shields.io/badge/ChainlIT-%23FF9800.svg?style=for-the-badge&logo=ChainlIT&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%234AB8FF.svg?style=for-the-badge&logo=gradio&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-%230000cc.svg?style=for-the-badge&logo=Plotly&logoColor=white)
-![Panel](https://img.shields.io/badge/Panel-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![Voila](https://img.shields.io/badge/Voila-%23FF6600.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Brython](https://img.shields.io/badge/Brython-306998?style=for-the-badge&logo=python&logoColor=white)
-![Pywebview](https://img.shields.io/badge/Pywebview-%230073a1.svg?style=for-the-badge&logo=python&logoColor=white)
-![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%23003D7D.svg?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-%230066CC.svg?style=for-the-badge&logo=python&logoColor=white)
-
-## **Hosting**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-## **Other Skills**
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=Google%20Colab&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FABC00.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-%230092D0.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%2300FFA2.svg?style=for-the-badge&logo=restapi&logoColor=white)
-![Paperspace Gradient](https://img.shields.io/badge/Paperspace%20Gradient-%234AB8FF.svg?style=for-the-badge&logo=paperspace&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-%23FFBE00.svg?style=for-the-badge&logo=wandb&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhiwahar--adhithya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiwahar-adhithya/)
+[![Email](https://img.shields.io/badge/Email-adhithyak99@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adhithyak99@gmail.com)
 
 ---
 
+### Featured Projects
 
-  ## 💰 **You can help me by Donating**
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adhithyak99) 
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**query-companion**](https://github.com/DHIWAHAR-K/query-companion) | Full-stack AI SQL assistant with 9-stage LangGraph agent pipeline. Natural language → SQL across 60+ languages with RBAC and multi-DB support. | React · FastAPI · LangGraph · Gemini · PostgreSQL · MongoDB |
+| [**social-coach-live**](https://github.com/DHIWAHAR-K/social-coach-live) | Real-time AI communication coach for neurodivergent users. 4 microservices: YOLO detection, emotion recognition, Whisper ASR, LLM coaching. | React · FastAPI · YOLO · Whisper · Ollama · Docker |
+| [**vigilante**](https://github.com/DHIWAHAR-K/vigilante) | Privacy-first AI research assistant — local LLM reasoning, search, and citation. Desktop-native with Rust backend. | Tauri · Rust · Next.js · React · Zustand |
+| [**HireMind**](https://github.com/DHIWAHAR-K/HireMind) | AI hiring automation: LangGraph multi-agent system with 6 specialized agents for end-to-end recruitment planning. | Python · LangGraph · LangChain · FastAPI |
+| [**Vantage**](https://github.com/DHIWAHAR-K/Vantage) | Text-to-SQL with Mixture of Experts architecture, optimized for Apple Silicon (MLX). | Python · MLX · Transformers |
+| [**William**](https://github.com/DHIWAHAR-K/William) | AI-powered financial analysis: Yahoo Finance + LLM insights + ML valuation models (XGBoost, Ridge, RF). | Python · LLMs · XGBoost |
 
+### Research
+
+| Project | Focus |
+|---------|-------|
+| [**Beyond-English-Multilingual-Self-Consistency**](https://github.com/DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning) | Does multilingual self-consistency improve LLM reasoning beyond math? 6 benchmarks, 10 languages, Qwen2.5-32B + Aya Expanse 32B on MLX. |
+| [**Stable-diffusion-for-Medical-Images**](https://github.com/DHIWAHAR-K/Stable-diffusion-for-Medical-Images) | Fine-tuning Stable Diffusion for synthetic mammography generation using RSNA and VinDr datasets. |
+| [**LLM_Agents_For_Beta_Testing**](https://github.com/DHIWAHAR-K/LLM_Agents_For_Beta_Testing) | Multi-agent framework for AI-powered QA: LLM agents simulate diverse user personas to find bugs and UX issues. |
+
+### Deep Learning & Computer Vision
+
+[**Image-Segmentation**](https://github.com/DHIWAHAR-K/Image-Segmentation) · UNet brain tumor segmentation · PyTorch
+**·** [**Image-Super-Resolution**](https://github.com/DHIWAHAR-K/Image-Super-Resolution) · EDSR with 16 residual blocks · TensorFlow
+**·** [**Image-Captioning**](https://github.com/DHIWAHAR-K/Image-Captioning) · CNN + Transformer encoder-decoder · TensorFlow
+**·** [**Fake-Video-Detection**](https://github.com/DHIWAHAR-K/Fake-Video-Detection) · Deepfake detection with CNNs
+**·** [**AI-Generated-Text-Detection**](https://github.com/DHIWAHAR-K/AI-Generated-Text-Detection) · Ensemble classifier with custom BPE tokenizer
+**·** [**Speech-Emotion-Recognition**](https://github.com/DHIWAHAR-K/Speech-Emotion-Recognition) · 1D CNN on MFCC features · 4 datasets
+**·** [**Automatic-Speech-Recognition**](https://github.com/DHIWAHAR-K/Automatic-Speech-Recognition) · CNN + BiLSTM + CTC loss
+
+---
+
+### Tech Stack
+
+**AI/ML:** PyTorch · TensorFlow · LangChain · LangGraph · Hugging Face · MLX · MONAI · OpenAI API · Whisper · YOLO
+
+**Backend:** FastAPI · Flask · Python · Rust · Docker · PostgreSQL · MongoDB · Redis · Supabase
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Tauri
+
+**Cloud & MLOps:** GCP · AWS · Docker · Weights & Biases · Git
