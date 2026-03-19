@@ -1,40 +1,52 @@
-# Dhiwahar Adhithya Kennady
+<a href="https://github.com/DHIWAHAR-K">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dhiwahar+Adhithya+Kennady+%F0%9F%91%8B;MS+Data+Science+%40+NYU+%7C+AI%2FML+Engineer;Building+Full-Stack+AI+Systems+That+Solve+Real+Problems" alt="Typing SVG" />
+</a>
 
-**MS Data Science @ NYU** · AI/ML Engineer · Building intelligent systems that solve real problems
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhiwahar-adhithya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:adhithyak99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://twitter.com/k_dhiwahar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DHIWAHAR-K&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-I build full-stack AI applications — from research prototypes to production systems. My work spans **medical imaging AI**, **multi-agent LLM systems**, **speech/NLP**, and **computer vision**.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhiwahar--adhithya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhiwahar-adhithya/)
-[![Email](https://img.shields.io/badge/Email-adhithyak99@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adhithyak99@gmail.com)
+### About Me
+
+- **MS Data Science @ NYU** — graduating May 2026
+- I build full-stack AI applications — from LLM agent systems and medical imaging models to desktop-native research tools
+- Domains: **Multi-Agent LLM Systems** · **Medical AI** · **Speech & NLP** · **Computer Vision**
+- Currently exploring: Production-grade LLM pipelines, MLX optimization for Apple Silicon, and Rust-powered AI tools
+- Open to full-time AI/ML engineering roles (3 years STEM OPT)
 
 ---
 
 ### Featured Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**query-companion**](https://github.com/DHIWAHAR-K/query-companion) | Full-stack AI SQL assistant with 9-stage LangGraph agent pipeline. Natural language → SQL across 60+ languages with RBAC and multi-DB support. | React · FastAPI · LangGraph · Gemini · PostgreSQL · MongoDB |
-| [**social-coach-live**](https://github.com/DHIWAHAR-K/social-coach-live) | Real-time AI communication coach for neurodivergent users. 4 microservices: YOLO detection, emotion recognition, Whisper ASR, LLM coaching. | React · FastAPI · YOLO · Whisper · Ollama · Docker |
-| [**vigilante**](https://github.com/DHIWAHAR-K/vigilante) | Privacy-first AI research assistant — local LLM reasoning, search, and citation. Desktop-native with Rust backend. | Tauri · Rust · Next.js · React · Zustand |
-| [**HireMind**](https://github.com/DHIWAHAR-K/HireMind) | AI hiring automation: LangGraph multi-agent system with 6 specialized agents for end-to-end recruitment planning. | Python · LangGraph · LangChain · FastAPI |
-| [**Vantage**](https://github.com/DHIWAHAR-K/Vantage) | Text-to-SQL with Mixture of Experts architecture, optimized for Apple Silicon (MLX). | Python · MLX · Transformers |
-| [**William**](https://github.com/DHIWAHAR-K/William) | AI-powered financial analysis: Yahoo Finance + LLM insights + ML valuation models (XGBoost, Ridge, RF). | Python · LLMs · XGBoost |
+| Project | What It Does | Stack |
+|:--------|:------------|:------|
+| [**query-companion**](https://github.com/DHIWAHAR-K/query-companion) | Full-stack AI SQL assistant — 9-stage LangGraph agent, natural language → SQL across 60+ languages, RBAC, multi-DB | React · FastAPI · LangGraph · Gemini · PostgreSQL · MongoDB |
+| [**social-coach-live**](https://github.com/DHIWAHAR-K/social-coach-live) | Real-time AI communication coach for neurodivergent users — 4 microservices: YOLO + emotion + Whisper + LLM | React · FastAPI · YOLO · Whisper · Ollama · Docker |
+| [**vigilante**](https://github.com/DHIWAHAR-K/vigilante) | Privacy-first local AI research assistant — desktop-native with Rust backend, LLM reasoning + citation | Tauri · Rust · Next.js · React · Zustand |
+| [**HireMind**](https://github.com/DHIWAHAR-K/HireMind) | AI hiring automation — LangGraph multi-agent system with 6 specialized agents for end-to-end recruitment | Python · LangGraph · LangChain · FastAPI |
+| [**Vantage**](https://github.com/DHIWAHAR-K/Vantage) | Text-to-SQL with Mixture of Experts architecture, optimized for Apple Silicon | Python · MLX · Transformers |
+| [**William**](https://github.com/DHIWAHAR-K/William) | AI financial analysis — Yahoo Finance + LLM insights + ML valuation (XGBoost, Ridge, RF) | Python · LLMs · XGBoost |
 
 ### Research
 
 | Project | Focus |
-|---------|-------|
-| [**Beyond-English-Multilingual-Self-Consistency**](https://github.com/DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning) | Does multilingual self-consistency improve LLM reasoning beyond math? 6 benchmarks, 10 languages, Qwen2.5-32B + Aya Expanse 32B on MLX. |
-| [**Stable-diffusion-for-Medical-Images**](https://github.com/DHIWAHAR-K/Stable-diffusion-for-Medical-Images) | Fine-tuning Stable Diffusion for synthetic mammography generation using RSNA and VinDr datasets. |
-| [**LLM_Agents_For_Beta_Testing**](https://github.com/DHIWAHAR-K/LLM_Agents_For_Beta_Testing) | Multi-agent framework for AI-powered QA: LLM agents simulate diverse user personas to find bugs and UX issues. |
+|:--------|:------|
+| [**Beyond-English-Multilingual-Self-Consistency**](https://github.com/DHIWAHAR-K/Beyond-English-Multilingual-Self-Consistency-for-Robust-LLM-Reasoning) | Does multilingual self-consistency improve LLM reasoning beyond math? 6 benchmarks · 10 languages · Qwen2.5-32B + Aya Expanse 32B on MLX |
+| [**Stable-diffusion-for-Medical-Images**](https://github.com/DHIWAHAR-K/Stable-diffusion-for-Medical-Images) | Fine-tuning Stable Diffusion for synthetic mammography — RSNA + VinDr datasets |
+| [**LLM_Agents_For_Beta_Testing**](https://github.com/DHIWAHAR-K/LLM_Agents_For_Beta_Testing) | Multi-agent QA framework — LLM agents simulate diverse user personas to find bugs and UX issues |
 
-### Deep Learning & Computer Vision
+### Deep Learning & CV
 
-[**Image-Segmentation**](https://github.com/DHIWAHAR-K/Image-Segmentation) · UNet brain tumor segmentation · PyTorch
-**·** [**Image-Super-Resolution**](https://github.com/DHIWAHAR-K/Image-Super-Resolution) · EDSR with 16 residual blocks · TensorFlow
-**·** [**Image-Captioning**](https://github.com/DHIWAHAR-K/Image-Captioning) · CNN + Transformer encoder-decoder · TensorFlow
+[**Image-Segmentation**](https://github.com/DHIWAHAR-K/Image-Segmentation) · UNet brain tumor segmentation
+**·** [**Image-Super-Resolution**](https://github.com/DHIWAHAR-K/Image-Super-Resolution) · EDSR with 16 residual blocks
+**·** [**Image-Captioning**](https://github.com/DHIWAHAR-K/Image-Captioning) · CNN + Transformer encoder-decoder
 **·** [**Fake-Video-Detection**](https://github.com/DHIWAHAR-K/Fake-Video-Detection) · Deepfake detection with CNNs
-**·** [**AI-Generated-Text-Detection**](https://github.com/DHIWAHAR-K/AI-Generated-Text-Detection) · Ensemble classifier with custom BPE tokenizer
+**·** [**AI-Generated-Text-Detection**](https://github.com/DHIWAHAR-K/AI-Generated-Text-Detection) · Ensemble classifier + custom BPE tokenizer
 **·** [**Speech-Emotion-Recognition**](https://github.com/DHIWAHAR-K/Speech-Emotion-Recognition) · 1D CNN on MFCC features · 4 datasets
 **·** [**Automatic-Speech-Recognition**](https://github.com/DHIWAHAR-K/Automatic-Speech-Recognition) · CNN + BiLSTM + CTC loss
 
@@ -42,10 +54,47 @@ I build full-stack AI applications — from research prototypes to production sy
 
 ### Tech Stack
 
-**AI/ML:** PyTorch · TensorFlow · LangChain · LangGraph · Hugging Face · MLX · MONAI · OpenAI API · Whisper · YOLO
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
+</p>
 
-**Backend:** FastAPI · Flask · Python · Rust · Docker · PostgreSQL · MongoDB · Redis · Supabase
+---
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Tauri
+### GitHub Stats
 
-**Cloud & MLOps:** GCP · AWS · Docker · Weights & Biases · Git
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHIWAHAR-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHIWAHAR-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DHIWAHAR-K&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DHIWAHAR-K&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <i>If you find any of my projects interesting, feel free to star the repo — it helps with visibility.</i>
+</p>
