@@ -13,11 +13,14 @@
 
 ### About Me
 
-- **MS Data Science @ NYU** — graduating May 2026
-- I build full-stack AI applications — from LLM agent systems and medical imaging models to desktop-native research tools
-- Domains: **Multi-Agent LLM Systems** · **Medical AI** · **Speech & NLP** · **Computer Vision**
-- Currently exploring: Production-grade LLM pipelines, MLX optimization for Apple Silicon, and Rust-powered AI tools
-- Open to full-time AI/ML engineering roles (3 years STEM OPT)
+```yaml
+🎓 Grad Student:  MS Data Science @ NYU (May 2026)
+🔬 Focus Areas:   Multi-Agent LLM Systems · Medical AI · Speech & NLP · Computer Vision
+🛠️ I Build:       Full-stack AI apps — from multi-agent pipelines to Rust-powered desktop tools
+🧪 Exploring:     Production LLM systems, MLX on Apple Silicon, and anything at the edge of AI + systems
+💬 Ask Me About:  LangGraph agents, medical imaging with diffusion models, or building AI tools that actually ship
+⚡ Fun Fact:      I once built 4 microservices just to help people read emotions in real time
+```
 
 ---
 
