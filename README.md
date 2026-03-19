@@ -13,14 +13,26 @@
 
 ### About Me
 
-```yaml
-🎓 Grad Student:  MS Data Science @ NYU (May 2026)
-🔬 Focus Areas:   Multi-Agent LLM Systems · Medical AI · Speech & NLP · Computer Vision
-🛠️ I Build:       Full-stack AI apps — from multi-agent pipelines to Rust-powered desktop tools
-🧪 Exploring:     Production LLM systems, MLX on Apple Silicon, and anything at the edge of AI + systems
-💬 Ask Me About:  LangGraph agents, medical imaging with diffusion models, or building AI tools that actually ship
-⚡ Fun Fact:      I once built 4 microservices just to help people read emotions in real time
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_MS_Data_Science-NYU-7B2D8E?style=for-the-badge" alt="NYU"/>
+  <img src="https://img.shields.io/badge/🔬_Focus-Multi--Agent_LLM_Systems-58A6FF?style=for-the-badge" alt="LLM Systems"/>
+  <img src="https://img.shields.io/badge/🧠_Focus-Medical_AI-E74C3C?style=for-the-badge" alt="Medical AI"/>
+  <img src="https://img.shields.io/badge/🎙️_Focus-Speech_&_NLP-2ECC71?style=for-the-badge" alt="Speech & NLP"/>
+  <img src="https://img.shields.io/badge/👁️_Focus-Computer_Vision-F39C12?style=for-the-badge" alt="Computer Vision"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛠️_I_Build-Full--Stack_AI_Apps-1ABC9C?style=for-the-badge" alt="I Build"/>
+  <img src="https://img.shields.io/badge/🧪_Exploring-Production_LLM_Pipelines-9B59B6?style=for-the-badge" alt="Exploring"/>
+  <img src="https://img.shields.io/badge/⚡_Exploring-MLX_on_Apple_Silicon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MLX"/>
+  <img src="https://img.shields.io/badge/🦀_Exploring-Rust--Powered_AI_Tools-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust AI"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💬_Ask_Me_About-LangGraph_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/💬_Ask_Me_About-Medical_Imaging_with_Diffusion-EE4C2C?style=for-the-badge" alt="Medical Imaging"/>
+  <img src="https://img.shields.io/badge/💬_Ask_Me_About-AI_Tools_That_Ship-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Shipping AI"/>
+</p>
 
 ---
 
