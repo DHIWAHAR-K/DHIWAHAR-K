@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DHIWAHAR-K&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHIWAHAR-K&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
